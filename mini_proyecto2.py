@@ -19,6 +19,10 @@ import torchvision.transforms as transforms
 import torchvision.models as models
 import torch.nn as nn
 import torch.optim as optim
+import PIL.Image as Image
+import sys
+import os
+import json
 """
 este codigo se corrio en google colab ya que la computadora de ninguno de los miemrbos tiene la 
 capacidad suficiente como para poder procesarla
@@ -172,12 +176,7 @@ resnet_18_model = resnet18_model.to(device)
 resnet18_model.load_state_dict(checkpoint['model'])
 torch.save(resnet18_model,'best_model.pth')
 
-import torch
-import torchvision.transforms as transforms
-import PIL.Image as Image
-import sys
-import os
-import json
+
 
 #ruta = sys.argv[1]
 #destino=sys.argv[2]
