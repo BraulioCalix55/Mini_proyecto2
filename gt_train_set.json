@@ -1,0 +1,6002 @@
+{
+    "00000.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00001.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00002.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00003.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00004.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00005.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips"
+    },
+    "00006.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00007.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00008.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00009.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00010.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips"
+    },
+    "00011.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00012.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00013.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00014.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00015.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "00016.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00017.jpg": {
+        "marca": "frit-os",
+        "sabor": "frit-os/twist_queso"
+    },
+    "00018.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00019.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00020.jpg": {
+        "marca": "del_rancho_rosquillas_criollas",
+        "sabor": "del_rancho_rosquillas_criollas/cappuccino"
+    },
+    "00021.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00022.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00023.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00024.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00025.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00026.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "00027.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "00028.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips_con_chile"
+    },
+    "00029.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00030.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00031.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00032.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00033.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/originales"
+    },
+    "00034.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00035.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00036.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00037.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00038.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00039.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00040.jpg": {
+        "marca": "lays",
+        "sabor": "lays/queso"
+    },
+    "00041.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/queso_fusion"
+    },
+    "00042.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/pizza"
+    },
+    "00043.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00044.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/originales"
+    },
+    "00045.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "00046.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00047.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00048.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00049.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/queso_fusion"
+    },
+    "00050.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00051.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "00052.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "00053.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00054.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "00055.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00056.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00057.jpg": {
+        "marca": "bue_nachos",
+        "sabor": "bue_nachos/queziisimo"
+    },
+    "00058.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00059.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00060.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00061.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00062.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00063.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00064.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00065.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00066.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00067.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00068.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00069.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00070.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00071.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00072.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "00073.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00074.jpg": {
+        "marca": "lays",
+        "sabor": "lays/queso"
+    },
+    "00075.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00076.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00077.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00078.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00079.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00080.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00081.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00082.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00083.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00084.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00085.jpg": {
+        "marca": "chips",
+        "sabor": "chips/jalapeno"
+    },
+    "00086.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00087.jpg": {
+        "marca": "bue_nachos",
+        "sabor": "bue_nachos/queziisimo"
+    },
+    "00088.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00089.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips"
+    },
+    "00090.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00091.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00092.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00093.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00094.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00095.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00096.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00097.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00098.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00099.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00100.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00101.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00102.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00103.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00104.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "00105.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_BBQ"
+    },
+    "00106.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00107.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00108.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00109.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00110.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "00111.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00112.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00113.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00114.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00115.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00116.jpg": {
+        "marca": "elotitos",
+        "sabor": "elotitos/con_piquete"
+    },
+    "00117.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00118.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00119.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00120.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00121.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00122.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00123.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/gorditos"
+    },
+    "00124.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00125.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00126.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "00127.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00128.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_flaming_hot"
+    },
+    "00129.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00130.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00131.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "00132.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00133.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00134.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00135.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "00136.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00137.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "00138.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00139.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00140.jpg": {
+        "marca": "rica_sula_tajaditas",
+        "sabor": "rica_sula_tajaditas/tajaditas_con_chicharron"
+    },
+    "00141.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00142.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00143.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00144.jpg": {
+        "marca": "takis",
+        "sabor": "takis/original"
+    },
+    "00145.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00146.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00147.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "00148.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00149.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00150.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00151.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00152.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00153.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_BBQ"
+    },
+    "00154.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00155.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00156.jpg": {
+        "marca": "elotitos",
+        "sabor": "elotitos/con_piquete"
+    },
+    "00157.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00158.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00159.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00160.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00161.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "00162.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00163.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "00164.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00165.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00166.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00167.jpg": {
+        "marca": "elotitos",
+        "sabor": "elotitos/con_piquete"
+    },
+    "00168.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00169.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00170.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00171.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "00172.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00173.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00174.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00175.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "00176.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00177.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00178.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00179.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00180.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "00181.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00182.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_queso"
+    },
+    "00183.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00184.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00185.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00186.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00187.jpg": {
+        "marca": "del_rancho_rosquillas_criollas",
+        "sabor": "del_rancho_rosquillas_criollas/cappuccino"
+    },
+    "00188.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00189.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00190.jpg": {
+        "marca": "lays",
+        "sabor": "lays/queso"
+    },
+    "00191.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00192.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00193.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00194.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00195.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00196.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00197.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00198.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00199.jpg": {
+        "marca": "bue_nachos",
+        "sabor": "bue_nachos/queziisimo"
+    },
+    "00200.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00201.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "00202.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00203.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00204.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00205.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00206.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00207.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips"
+    },
+    "00208.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00209.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00210.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00211.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00212.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00213.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "00214.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00215.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00216.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00217.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00218.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/chile"
+    },
+    "00219.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00220.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "00221.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00222.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00223.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00224.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00225.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00226.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "00227.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "00228.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00229.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00230.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00231.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00232.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00233.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_BBQ"
+    },
+    "00234.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00235.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00236.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00237.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00238.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00239.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "00240.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00241.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00242.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00243.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00244.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00245.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "00246.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00247.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "00248.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00249.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00250.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00251.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/limon"
+    },
+    "00252.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00253.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00254.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_jalapeno"
+    },
+    "00255.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00256.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00257.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00258.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00259.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00260.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00261.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00262.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00263.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00264.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00265.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00266.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "00267.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00268.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00269.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00270.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00271.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00272.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00273.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00274.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00275.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00276.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00277.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "00278.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00279.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00280.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00281.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips"
+    },
+    "00282.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00283.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00284.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00285.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00286.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "00287.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00288.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00289.jpg": {
+        "marca": "frit-os",
+        "sabor": "frit-os/twist_queso"
+    },
+    "00290.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00291.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00292.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00293.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00294.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "00295.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00296.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00297.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "00298.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/queso_fusion"
+    },
+    "00299.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00300.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00301.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_BBQ"
+    },
+    "00302.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00303.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "00304.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00305.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "00306.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00307.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00308.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00309.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00310.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00311.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00312.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00313.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00314.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00315.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00316.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00317.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00318.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips"
+    },
+    "00319.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00320.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "00321.jpg": {
+        "marca": "quesi_trix",
+        "sabor": "quesi_trix/chile"
+    },
+    "00322.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00323.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00324.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00325.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00326.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00327.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/originales"
+    },
+    "00328.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00329.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00330.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00331.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00332.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00333.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00334.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "00335.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "00336.jpg": {
+        "marca": "chips",
+        "sabor": "chips/fuego"
+    },
+    "00337.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00338.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00339.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00340.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00341.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00342.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00343.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00344.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "00345.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00346.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00347.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00348.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00349.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "00350.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00351.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00352.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00353.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00354.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00355.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00356.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00357.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00358.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "00359.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/originales"
+    },
+    "00360.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00361.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00362.jpg": {
+        "marca": "takis",
+        "sabor": "takis/original"
+    },
+    "00363.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "00364.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "00365.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/chile"
+    },
+    "00366.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00367.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00368.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00369.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00370.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00371.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_BBQ"
+    },
+    "00372.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00373.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "00374.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00375.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "00376.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00377.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00378.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00379.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00380.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00381.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "00382.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00383.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00384.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00385.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00386.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00387.jpg": {
+        "marca": "bue_nachos",
+        "sabor": "bue_nachos/queziisimo"
+    },
+    "00388.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00389.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00390.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00391.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00392.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00393.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "00394.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00395.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00396.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00397.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00398.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00399.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/chile"
+    },
+    "00400.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00401.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00402.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00403.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00404.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00405.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00406.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00407.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00408.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00409.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00410.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00411.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "00412.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00413.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00414.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips_con_chile"
+    },
+    "00415.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/limon"
+    },
+    "00416.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00417.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00418.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/queso_fusion"
+    },
+    "00419.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00420.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00421.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00422.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00423.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00424.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00425.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00426.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00427.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00428.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00429.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00430.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_jalapeno"
+    },
+    "00431.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00432.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "00433.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00434.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00435.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "00436.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00437.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/chile"
+    },
+    "00438.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "00439.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00440.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00441.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00442.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00443.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_BBQ"
+    },
+    "00444.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "00445.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/gorditos"
+    },
+    "00446.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00447.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00448.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00449.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00450.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00451.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "00452.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00453.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00454.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00455.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00456.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00457.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00458.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00459.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00460.jpg": {
+        "marca": "pop",
+        "sabor": "pop/karameladas"
+    },
+    "00461.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00462.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00463.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00464.jpg": {
+        "marca": "frit-os",
+        "sabor": "frit-os/twist_queso"
+    },
+    "00465.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00466.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00467.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_queso"
+    },
+    "00468.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "00469.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00470.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00471.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00472.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00473.jpg": {
+        "marca": "takis",
+        "sabor": "takis/original"
+    },
+    "00474.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00475.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "00476.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00477.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "00478.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00479.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/limon"
+    },
+    "00480.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00481.jpg": {
+        "marca": "chips",
+        "sabor": "chips/fuego"
+    },
+    "00482.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00483.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00484.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00485.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "00486.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00487.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00488.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00489.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00490.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00491.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00492.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00493.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00494.jpg": {
+        "marca": "pop",
+        "sabor": "pop/karameladas"
+    },
+    "00495.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00496.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00497.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00498.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00499.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00500.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00501.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips"
+    },
+    "00502.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "00503.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00504.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00505.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00506.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00507.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00508.jpg": {
+        "marca": "rica_sula_tajaditas",
+        "sabor": "rica_sula_tajaditas/tajaditas_con_chicharron"
+    },
+    "00509.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "00510.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00511.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00512.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00513.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_jalapeno"
+    },
+    "00514.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "00515.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00516.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00517.jpg": {
+        "marca": "rica_sula_tajaditas",
+        "sabor": "rica_sula_tajaditas/tajaditas_con_chicharron"
+    },
+    "00518.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00519.jpg": {
+        "marca": "rica_sula_tajaditas",
+        "sabor": "rica_sula_tajaditas/tajaditas_con_chicharron"
+    },
+    "00520.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00521.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00522.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00523.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00524.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "00525.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00526.jpg": {
+        "marca": "rica_sula_tajaditas",
+        "sabor": "rica_sula_tajaditas/tajaditas_con_chicharron"
+    },
+    "00527.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "00528.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00529.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00530.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_flaming_hot"
+    },
+    "00531.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00532.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00533.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00534.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00535.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00536.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00537.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00538.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00539.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/queso_fusion"
+    },
+    "00540.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "00541.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00542.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00543.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00544.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00545.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "00546.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00547.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00548.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00549.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/queso_fusion"
+    },
+    "00550.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00551.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00552.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00553.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00554.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00555.jpg": {
+        "marca": "del_rancho_rosquillas_criollas",
+        "sabor": "del_rancho_rosquillas_criollas/cappuccino"
+    },
+    "00556.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00557.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/pizza"
+    },
+    "00558.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00559.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_BBQ"
+    },
+    "00560.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00561.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00562.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00563.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "00564.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00565.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00566.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00567.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00568.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00569.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00570.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00571.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00572.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00573.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00574.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00575.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00576.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00577.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00578.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_jalapeno"
+    },
+    "00579.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "00580.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00581.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "00582.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00583.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00584.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00585.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00586.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00587.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00588.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00589.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00590.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00591.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "00592.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00593.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00594.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00595.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00596.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00597.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00598.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/pizza"
+    },
+    "00599.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00600.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00601.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/gorditos"
+    },
+    "00602.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00603.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00604.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00605.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00606.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00607.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00608.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "00609.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00610.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/limon"
+    },
+    "00611.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00612.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00613.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00614.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "00615.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00616.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00617.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "00618.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00619.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00620.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/chile"
+    },
+    "00621.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00622.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00623.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00624.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00625.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00626.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips_con_chile"
+    },
+    "00627.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00628.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "00629.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00630.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "00631.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00632.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "00633.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/queso_fusion"
+    },
+    "00634.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00635.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00636.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00637.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00638.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00639.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00640.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00641.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "00642.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_queso"
+    },
+    "00643.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00644.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00645.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/pizza"
+    },
+    "00646.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/chile"
+    },
+    "00647.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00648.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "00649.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00650.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00651.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "00652.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00653.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00654.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00655.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00656.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00657.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00658.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00659.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00660.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00661.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00662.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00663.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00664.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00665.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00666.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00667.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00668.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips"
+    },
+    "00669.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00670.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00671.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00672.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00673.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00674.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00675.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00676.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00677.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00678.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00679.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00680.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00681.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00682.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00683.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00684.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00685.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00686.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00687.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/pizza"
+    },
+    "00688.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00689.jpg": {
+        "marca": "del_rancho_rosquillas_criollas",
+        "sabor": "del_rancho_rosquillas_criollas/cappuccino"
+    },
+    "00690.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00691.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00692.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00693.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00694.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00695.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips_con_chile"
+    },
+    "00696.jpg": {
+        "marca": "rica_sula_tajaditas",
+        "sabor": "rica_sula_tajaditas/tajaditas_con_chicharron"
+    },
+    "00697.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00698.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "00699.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00700.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00701.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00702.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00703.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00704.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "00705.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00706.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00707.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00708.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00709.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00710.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00711.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00712.jpg": {
+        "marca": "bue_nachos",
+        "sabor": "bue_nachos/queziisimo"
+    },
+    "00713.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00714.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00715.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00716.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00717.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00718.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00719.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00720.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "00721.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00722.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00723.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00724.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00725.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00726.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00727.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00728.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00729.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00730.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00731.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00732.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00733.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "00734.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00735.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00736.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00737.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00738.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00739.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00740.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00741.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/pizza"
+    },
+    "00742.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00743.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00744.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00745.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00746.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00747.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00748.jpg": {
+        "marca": "lays",
+        "sabor": "lays/queso"
+    },
+    "00749.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00750.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "00751.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00752.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00753.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00754.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00755.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00756.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00757.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips_con_chile"
+    },
+    "00758.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "00759.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "00760.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00761.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "00762.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00763.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00764.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/chile"
+    },
+    "00765.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00766.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00767.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00768.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00769.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00770.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_flaming_hot"
+    },
+    "00771.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00772.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00773.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00774.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "00775.jpg": {
+        "marca": "del_rancho_rosquillas_criollas",
+        "sabor": "del_rancho_rosquillas_criollas/cappuccino"
+    },
+    "00776.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00777.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00778.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_flaming_hot"
+    },
+    "00779.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00780.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00781.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00782.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00783.jpg": {
+        "marca": "chips",
+        "sabor": "chips/fuego"
+    },
+    "00784.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00785.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "00786.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/chile"
+    },
+    "00787.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00788.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00789.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "00790.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00791.jpg": {
+        "marca": "elotitos",
+        "sabor": "elotitos/con_piquete"
+    },
+    "00792.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00793.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00794.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00795.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00796.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00797.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00798.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00799.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00800.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00801.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00802.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "00803.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "00804.jpg": {
+        "marca": "chips",
+        "sabor": "chips/jalapeno"
+    },
+    "00805.jpg": {
+        "marca": "frit-os",
+        "sabor": "frit-os/twist_queso"
+    },
+    "00806.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00807.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00808.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00809.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "00810.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00811.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00812.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00813.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00814.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/limon"
+    },
+    "00815.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00816.jpg": {
+        "marca": "rica_sula_tajaditas",
+        "sabor": "rica_sula_tajaditas/tajaditas_con_chicharron"
+    },
+    "00817.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_flaming_hot"
+    },
+    "00818.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00819.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00820.jpg": {
+        "marca": "lays",
+        "sabor": "lays/queso"
+    },
+    "00821.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00822.jpg": {
+        "marca": "frit-os",
+        "sabor": "frit-os/twist_queso"
+    },
+    "00823.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00824.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00825.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00826.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00827.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00828.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00829.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00830.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00831.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00832.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "00833.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "00834.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00835.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_jalapeno"
+    },
+    "00836.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "00837.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00838.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00839.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00840.jpg": {
+        "marca": "elotitos",
+        "sabor": "elotitos/con_piquete"
+    },
+    "00841.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "00842.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00843.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00844.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00845.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00846.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00847.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00848.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "00849.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00850.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00851.jpg": {
+        "marca": "del_rancho_rosquillas_criollas",
+        "sabor": "del_rancho_rosquillas_criollas/cappuccino"
+    },
+    "00852.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "00853.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/originales"
+    },
+    "00854.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00855.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00856.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00857.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_jalapeno"
+    },
+    "00858.jpg": {
+        "marca": "bue_nachos",
+        "sabor": "bue_nachos/queziisimo"
+    },
+    "00859.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/gorditos"
+    },
+    "00860.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00861.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00862.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "00863.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00864.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00865.jpg": {
+        "marca": "takis",
+        "sabor": "takis/original"
+    },
+    "00866.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_jalapeno"
+    },
+    "00867.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00868.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00869.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00870.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00871.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00872.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00873.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00874.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00875.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00876.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "00877.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00878.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00879.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00880.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00881.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00882.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_queso"
+    },
+    "00883.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00884.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00885.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "00886.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00887.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00888.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00889.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00890.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/gorditos"
+    },
+    "00891.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00892.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00893.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00894.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "00895.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00896.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "00897.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00898.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "00899.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00900.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00901.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "00902.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00903.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00904.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00905.jpg": {
+        "marca": "quesi_trix",
+        "sabor": "quesi_trix/chile"
+    },
+    "00906.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00907.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00908.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00909.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "00910.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "00911.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00912.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00913.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/limon"
+    },
+    "00914.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00915.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00916.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00917.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "00918.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00919.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00920.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00921.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00922.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00923.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "00924.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/chile"
+    },
+    "00925.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00926.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00927.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/originales"
+    },
+    "00928.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00929.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00930.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00931.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "00932.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00933.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00934.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00935.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00936.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00937.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00938.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "00939.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "00940.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00941.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "00942.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00943.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00944.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_queso"
+    },
+    "00945.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "00946.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00947.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "00948.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "00949.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00950.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "00951.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00952.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00953.jpg": {
+        "marca": "rica_sula_tajaditas",
+        "sabor": "rica_sula_tajaditas/tajaditas_con_chicharron"
+    },
+    "00954.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "00955.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "00956.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00957.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00958.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "00959.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00960.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00961.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "00962.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00963.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00964.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00965.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "00966.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "00967.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "00968.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "00969.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00970.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "00971.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00972.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "00973.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "00974.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "00975.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00976.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00977.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00978.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00979.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "00980.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00981.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "00982.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00983.jpg": {
+        "marca": "elotitos",
+        "sabor": "elotitos/con_piquete"
+    },
+    "00984.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00985.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "00986.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00987.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "00988.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "00989.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "00990.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "00991.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "00992.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "00993.jpg": {
+        "marca": "chips",
+        "sabor": "chips/jalapeno"
+    },
+    "00994.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "00995.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "00996.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "00997.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "00998.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "00999.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "01000.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/gorditos"
+    },
+    "01001.jpg": {
+        "marca": "chips",
+        "sabor": "chips/fuego"
+    },
+    "01002.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01003.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01004.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "01005.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "01006.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01007.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01008.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "01009.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01010.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01011.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "01012.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/originales"
+    },
+    "01013.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_queso"
+    },
+    "01014.jpg": {
+        "marca": "chips",
+        "sabor": "chips/jalapeno"
+    },
+    "01015.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01016.jpg": {
+        "marca": "quesi_trix",
+        "sabor": "quesi_trix/chile"
+    },
+    "01017.jpg": {
+        "marca": "elotitos",
+        "sabor": "elotitos/con_piquete"
+    },
+    "01018.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01019.jpg": {
+        "marca": "del_rancho_rosquillas_criollas",
+        "sabor": "del_rancho_rosquillas_criollas/cappuccino"
+    },
+    "01020.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01021.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01022.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "01023.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01024.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "01025.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "01026.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "01027.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01028.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01029.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01030.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01031.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "01032.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01033.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "01034.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "01035.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01036.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01037.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/limon"
+    },
+    "01038.jpg": {
+        "marca": "frit-os",
+        "sabor": "frit-os/twist_queso"
+    },
+    "01039.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01040.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01041.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01042.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "01043.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01044.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "01045.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "01046.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01047.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "01048.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/pizza"
+    },
+    "01049.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "01050.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01051.jpg": {
+        "marca": "takis",
+        "sabor": "takis/original"
+    },
+    "01052.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "01053.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/gorditos"
+    },
+    "01054.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01055.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "01056.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "01057.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01058.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01059.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "01060.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01061.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "01062.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/originales"
+    },
+    "01063.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "01064.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01065.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "01066.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "01067.jpg": {
+        "marca": "frit-os",
+        "sabor": "frit-os/twist_queso"
+    },
+    "01068.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01069.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01070.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "01071.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "01072.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "01073.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "01074.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips_con_chile"
+    },
+    "01075.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01076.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01077.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01078.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01079.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01080.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "01081.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "01082.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/originales"
+    },
+    "01083.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips_con_chile"
+    },
+    "01084.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "01085.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "01086.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01087.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "01088.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01089.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01090.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01091.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "01092.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01093.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "01094.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "01095.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01096.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01097.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01098.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "01099.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01100.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "01101.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01102.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01103.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "01104.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01105.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01106.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "01107.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "01108.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "01109.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "01110.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01111.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "01112.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "01113.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01114.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01115.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "01116.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01117.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_queso"
+    },
+    "01118.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "01119.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "01120.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01121.jpg": {
+        "marca": "lays",
+        "sabor": "lays/queso"
+    },
+    "01122.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01123.jpg": {
+        "marca": "lays",
+        "sabor": "lays/queso"
+    },
+    "01124.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "01125.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "01126.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_queso"
+    },
+    "01127.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01128.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "01129.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "01130.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "01131.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01132.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "01133.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01134.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "01135.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01136.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "01137.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01138.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01139.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "01140.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01141.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "01142.jpg": {
+        "marca": "chips",
+        "sabor": "chips/fuego"
+    },
+    "01143.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "01144.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01145.jpg": {
+        "marca": "chips",
+        "sabor": "chips/jalapeno"
+    },
+    "01146.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "01147.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "01148.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "01149.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "01150.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "01151.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "01152.jpg": {
+        "marca": "pop",
+        "sabor": "pop/karameladas"
+    },
+    "01153.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "01154.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "01155.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "01156.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "01157.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "01158.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "01159.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01160.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "01161.jpg": {
+        "marca": "chips",
+        "sabor": "chips/jalapeno"
+    },
+    "01162.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01163.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "01164.jpg": {
+        "marca": "quesi_trix",
+        "sabor": "quesi_trix/chile"
+    },
+    "01165.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "01166.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01167.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/pizza"
+    },
+    "01168.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01169.jpg": {
+        "marca": "quesi_trix",
+        "sabor": "quesi_trix/chile"
+    },
+    "01170.jpg": {
+        "marca": "rica_sula_tajaditas",
+        "sabor": "rica_sula_tajaditas/tajaditas_con_chicharron"
+    },
+    "01171.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips_con_chile"
+    },
+    "01172.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01173.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01174.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01175.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01176.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01177.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01178.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "01179.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "01180.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01181.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "01182.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "01183.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01184.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "01185.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "01186.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01187.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01188.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "01189.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "01190.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "01191.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "01192.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01193.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "01194.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "01195.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "01196.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "01197.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01198.jpg": {
+        "marca": "bue_nachos",
+        "sabor": "bue_nachos/queziisimo"
+    },
+    "01199.jpg": {
+        "marca": "pop",
+        "sabor": "pop/karameladas"
+    },
+    "01200.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01201.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_jalapeno"
+    },
+    "01202.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "01203.jpg": {
+        "marca": "lays",
+        "sabor": "lays/queso"
+    },
+    "01204.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "01205.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01206.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01207.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "01208.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "01209.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01210.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01211.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "01212.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01213.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "01214.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_queso"
+    },
+    "01215.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01216.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01217.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "01218.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/pizza"
+    },
+    "01219.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01220.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01221.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "01222.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01223.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01224.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "01225.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "01226.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "01227.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "01228.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "01229.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01230.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "01231.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01232.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01233.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01234.jpg": {
+        "marca": "lays",
+        "sabor": "lays/crema_y_especias"
+    },
+    "01235.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "01236.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01237.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "01238.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01239.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "01240.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01241.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "01242.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "01243.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "01244.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01245.jpg": {
+        "marca": "frit-os",
+        "sabor": "frit-os/twist_queso"
+    },
+    "01246.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "01247.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01248.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01249.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01250.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01251.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/originales"
+    },
+    "01252.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01253.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "01254.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "01255.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "01256.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "01257.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01258.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01259.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01260.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "01261.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "01262.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01263.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "01264.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01265.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips_con_chile"
+    },
+    "01266.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01267.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_flaming_hot"
+    },
+    "01268.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "01269.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01270.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "01271.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips_con_chile"
+    },
+    "01272.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "01273.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "01274.jpg": {
+        "marca": "frit-os",
+        "sabor": "frit-os/twist_queso"
+    },
+    "01275.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01276.jpg": {
+        "marca": "taqueritos",
+        "sabor": "taqueritos/chile_toreado"
+    },
+    "01277.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01278.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01279.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "01280.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/pizza"
+    },
+    "01281.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01282.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "01283.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01284.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01285.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "01286.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/naturales"
+    },
+    "01287.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "01288.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01289.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01290.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01291.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01292.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/infladitos"
+    },
+    "01293.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "01294.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "01295.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "01296.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01297.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/chile"
+    },
+    "01298.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "01299.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "01300.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_BBQ"
+    },
+    "01301.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "01302.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01303.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "01304.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "01305.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01306.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "01307.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01308.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "01309.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "01310.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "01311.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_queso"
+    },
+    "01312.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "01313.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01314.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "01315.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "01316.jpg": {
+        "marca": "toztecas",
+        "sabor": "toztecas/originales"
+    },
+    "01317.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "01318.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "01319.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "01320.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "01321.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01322.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips"
+    },
+    "01323.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01324.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01325.jpg": {
+        "marca": "takis",
+        "sabor": "takis/fuego"
+    },
+    "01326.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01327.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01328.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01329.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "01330.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/twist_queso"
+    },
+    "01331.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01332.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "01333.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "01334.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "01335.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01336.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "01337.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "01338.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01339.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01340.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01341.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "01342.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "01343.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01344.jpg": {
+        "marca": "quesi_trix",
+        "sabor": "quesi_trix/chile"
+    },
+    "01345.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01346.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01347.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "01348.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01349.jpg": {
+        "marca": "quesi_trix",
+        "sabor": "quesi_trix/chile"
+    },
+    "01350.jpg": {
+        "marca": "takis",
+        "sabor": "takis/original"
+    },
+    "01351.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_flaming_hot"
+    },
+    "01352.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "01353.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01354.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01355.jpg": {
+        "marca": "bue_nachos",
+        "sabor": "bue_nachos/queziisimo"
+    },
+    "01356.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "01357.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "01358.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01359.jpg": {
+        "marca": "jalapenos",
+        "sabor": "jalapenos/jalapenos"
+    },
+    "01360.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "01361.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01362.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01363.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01364.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01365.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01366.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01367.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "01368.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/crema_y_especias"
+    },
+    "01369.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01370.jpg": {
+        "marca": "del_rancho_rosquillas_criollas",
+        "sabor": "del_rancho_rosquillas_criollas/cappuccino"
+    },
+    "01371.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "01372.jpg": {
+        "marca": "rica_sula_tajaditas",
+        "sabor": "rica_sula_tajaditas/tajaditas_con_chicharron"
+    },
+    "01373.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01374.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01375.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "01376.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "01377.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01378.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01379.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01380.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "01381.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01382.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "01383.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "01384.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01385.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "01386.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01387.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "01388.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01389.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01390.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "01391.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01392.jpg": {
+        "marca": "pop",
+        "sabor": "pop/karameladas"
+    },
+    "01393.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "01394.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01395.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "01396.jpg": {
+        "marca": "pop",
+        "sabor": "pop/karameladas"
+    },
+    "01397.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01398.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "01399.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01400.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01401.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01402.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01403.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "01404.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/crunchy_extra_queso"
+    },
+    "01405.jpg": {
+        "marca": "lays",
+        "sabor": "lays/queso"
+    },
+    "01406.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01407.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01408.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "01409.jpg": {
+        "marca": "crujitos",
+        "sabor": "crujitos/queso_y_chile"
+    },
+    "01410.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "01411.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01412.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01413.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "01414.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "01415.jpg": {
+        "marca": "centavitos",
+        "sabor": "centavitos/centavitos"
+    },
+    "01416.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01417.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01418.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_jalapeno"
+    },
+    "01419.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01420.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "01421.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01422.jpg": {
+        "marca": "anillitos",
+        "sabor": "anillitos/sabor_jalapeno"
+    },
+    "01423.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/crujientes"
+    },
+    "01424.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01425.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "01426.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "01427.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01428.jpg": {
+        "marca": "takis",
+        "sabor": "takis/original"
+    },
+    "01429.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01430.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "01431.jpg": {
+        "marca": "taco",
+        "sabor": "taco/picante"
+    },
+    "01432.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips"
+    },
+    "01433.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01434.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "01435.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01436.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/clasicas"
+    },
+    "01437.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips_con_chile"
+    },
+    "01438.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "01439.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01440.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01441.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01442.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/con_chicharron_del_rancho"
+    },
+    "01443.jpg": {
+        "marca": "lays",
+        "sabor": "lays/queso"
+    },
+    "01444.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_queso"
+    },
+    "01445.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/miel_mostaza"
+    },
+    "01446.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/nacho_atrevido"
+    },
+    "01447.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01448.jpg": {
+        "marca": "cappy",
+        "sabor": "cappy/gorditos"
+    },
+    "01449.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_queso"
+    },
+    "01450.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01451.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01452.jpg": {
+        "marca": "takis",
+        "sabor": "takis/xplosion"
+    },
+    "01453.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01454.jpg": {
+        "marca": "churritos",
+        "sabor": "churritos/churritos"
+    },
+    "01455.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01456.jpg": {
+        "marca": "nachos",
+        "sabor": "nachos/nachos"
+    },
+    "01457.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "01458.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01459.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01460.jpg": {
+        "marca": "maiz_chino",
+        "sabor": "maiz_chino/picante"
+    },
+    "01461.jpg": {
+        "marca": "yummix",
+        "sabor": "yummix/tropical"
+    },
+    "01462.jpg": {
+        "marca": "taco",
+        "sabor": "taco/barbacoa"
+    },
+    "01463.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    },
+    "01464.jpg": {
+        "marca": "taco",
+        "sabor": "taco/tornitos_chile_toreado"
+    },
+    "01465.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/queso"
+    },
+    "01466.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01467.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_chile_toreado"
+    },
+    "01468.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01469.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01470.jpg": {
+        "marca": "zibas",
+        "sabor": "zibas/queso"
+    },
+    "01471.jpg": {
+        "marca": "quesi_trix",
+        "sabor": "quesi_trix/chile"
+    },
+    "01472.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/chile_y_limon"
+    },
+    "01473.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01474.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/queso_acelerado"
+    },
+    "01475.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "01476.jpg": {
+        "marca": "palitos",
+        "sabor": "palitos/chilimon"
+    },
+    "01477.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/autenticos"
+    },
+    "01478.jpg": {
+        "marca": "caribas",
+        "sabor": "caribas/sofrito"
+    },
+    "01479.jpg": {
+        "marca": "ranchitas",
+        "sabor": "ranchitas/nacho_excitante"
+    },
+    "01480.jpg": {
+        "marca": "chips",
+        "sabor": "chips/fuego"
+    },
+    "01481.jpg": {
+        "marca": "elotitos",
+        "sabor": "elotitos/con_piquete"
+    },
+    "01482.jpg": {
+        "marca": "taco",
+        "sabor": "taco/3_quesos"
+    },
+    "01483.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/ceviche"
+    },
+    "01484.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01485.jpg": {
+        "marca": "yucatekas",
+        "sabor": "yucatekas/vinagre_y_chile"
+    },
+    "01486.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/barbacoa"
+    },
+    "01487.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01488.jpg": {
+        "marca": "doraditas",
+        "sabor": "doraditas/chile"
+    },
+    "01489.jpg": {
+        "marca": "cheetos",
+        "sabor": "cheetos/horneados_queso"
+    },
+    "01490.jpg": {
+        "marca": "lays",
+        "sabor": "lays/original"
+    },
+    "01491.jpg": {
+        "marca": "taco",
+        "sabor": "taco/limon"
+    },
+    "01492.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/picositas"
+    },
+    "01493.jpg": {
+        "marca": "del_rancho_chicharrones",
+        "sabor": "del_rancho_chicharrones/picositos"
+    },
+    "01494.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/yuquitas_originales"
+    },
+    "01495.jpg": {
+        "marca": "zambos",
+        "sabor": "zambos/originales_onduladas"
+    },
+    "01496.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "01497.jpg": {
+        "marca": "frijoli",
+        "sabor": "frijoli/chips"
+    },
+    "01498.jpg": {
+        "marca": "doritos",
+        "sabor": "doritos/verde_radiante"
+    },
+    "01499.jpg": {
+        "marca": "fiesta_snax",
+        "sabor": "fiesta_snax/fiesta_snax"
+    }
+}
